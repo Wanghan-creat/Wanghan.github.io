@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wanghan' webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Wang han"
+description              : &description "Nice to meet you"
 url                      : https://Wanghan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Wanghan/Wanghan.github.io"
+repository               : "Wanghan-creat/Wanghan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -231,27 +231,27 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+    #  type: posts
+    #values:
+     # layout: single
+      #author_profile: true
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  #- scope:
+   #   path: ""
+    #  type: pages
+    #values:
+     # layout: single
+      #author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: academic activities
     values:
       layout: single
       author_profile: true
@@ -260,7 +260,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: biography
     values:
       layout: single
       author_profile: true
@@ -269,7 +269,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Honors
     values:
       layout: single
       author_profile: true
@@ -278,7 +278,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: Education
     values:
       layout: talk
       author_profile: true

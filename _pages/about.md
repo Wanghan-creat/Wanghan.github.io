@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student from Chang'an University, Department of Transportation Engineering. I gratuated from Fuzhou University with a bachelor's degree in Mathematics. Then, I pursued my master's degree in Transportation Engineering at Chang'an University, and fortunately, I was granted the opportunity to continue directly into a PhD program during my second year of graduate studies and studied under Dr.Xing Fu,who is a excellent teacher.
-
-
-My research direction are post-disaster road network repair and scheduling，improving resilience of post-disaster road network repair.
+  I'm a first-year PhD student from Chang'an University, Department of Transportation Engineering. I gratuated from Fuzhou University with a bachelor's degree in Mathematics. Then, I pursued my master's degree in Transportation Engineering at Chang'an University, and fortunately, I was granted the opportunity to continue directly into a PhD program during my second year of graduate studies and studied under Dr.Xing Fu,who is a excellent teacher.
+  My research direction are post-disaster road network repair and scheduling，improving resilience of post-disaster road network repair.
 
 Education
 ======
